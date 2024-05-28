@@ -7,6 +7,7 @@
 [![Language grade: C/C++](https://img.shields.io/lgtm/grade/cpp/g/Lectem/cpp-boilerplate.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/Lectem/cpp-boilerplate/context:cpp)
 [![CDash dashboard](https://img.shields.io/badge/CDash-Access-blue.svg)](http://my.cdash.org/index.php?project=cpp-boilerplate)
 
+
 [![Pull requests](https://img.shields.io/github/issues-pr-raw/Lectem/cpp-boilerplate.svg)](https://github.com/Lectem/cpp-boilerplate/pulls)
 [![Opened issues](https://img.shields.io/github/issues-raw/Lectem/cpp-boilerplate.svg)](https://github.com/Lectem/cpp-boilerplate/issues)
 [![Documentation](https://img.shields.io/badge/Documentation-latest-blue.svg)](https://lectem.github.io/cpp-boilerplate)
